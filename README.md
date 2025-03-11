@@ -27,7 +27,7 @@ Follow these steps to set up and run the project:
 
 ### 1️⃣ Clone the Repository
 ```shell
-   git clone https://github.com/Sivanathan-V-41/Spam-Mail-Detector-Mec-Learning-.git
+   git clone https://github.com/Sivanathan-V-41/Spam-Mail-Detector-Mec-Learning-
 ```
 
 ### 2️⃣ Navigate to the Project Directory
